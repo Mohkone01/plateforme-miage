@@ -95,38 +95,12 @@ Accédez à l'application sur `http://localhost:8000`
 - Validation des fichiers uploadés
 - Protection XSS et SQL injection
 
-## État du Projet
-
-**Phase actuelle**: 2/7 - Authentification en cours
-
-### Complété
-- Architecture MVC structurée
-- Migrations de base de données
-- Modèles Eloquent de base
-- Contrôleurs de base
-- Vues de base
-
-### En cours
-- Système d'authentification
-- Validation des formulaires
-- Logique métier
-
-### Planifié
-- CRUD complets
-- Upload de fichiers
-- Messagerie complète
-- Dashboards avec statistiques avancées
 
 ## Documentation
 
 Consultez le dossier `Documentation/` pour:
 - Architecture détaillée du projet
-- Plan de développement
-- Feuille de route d'implémentation
 
-## Licence
-
-MIT License
 
 ## Contact
 
