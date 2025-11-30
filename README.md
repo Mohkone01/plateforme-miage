@@ -89,11 +89,10 @@ Accédez à l'application sur `http://localhost:8000`
 
 ## Sécurité
 
-- Protection CSRF sur tous les formulaires
 - Hashage des mots de passe (Bcrypt)
 - Contrôle d'accès basé sur les rôles
 - Validation des fichiers uploadés
-- Protection XSS et SQL injection
+
 
 
 ## Documentation
