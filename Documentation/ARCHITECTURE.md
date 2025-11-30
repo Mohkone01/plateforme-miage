@@ -107,26 +107,3 @@ Statistiques de consultation des CVs
 4. Consultation des offres d'emploi
 5. Communication via messagerie
 6. Suivi des statistiques de visibilité
-
-## État Actuel du Projet
-
-### Phase 1: Fondations (Complété)
-- Structure des dossiers MVC
-- Migrations de base de données
-- Modèles Eloquent (structure)
-- Contrôleurs (structure)
-- Vues de base
-
-### Phase 2: Authentification (En cours)
-- Système de login
-- Système d'inscription
-- Guards personnalisés
-- Middleware de rôles
-
-### Phases Suivantes (Planifié)
-- CRUD complets
-- Upload de fichiers
-- Messagerie complète
-- Dashboards avec statistiques
-- Notifications
-- Tests unitaires
